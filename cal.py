@@ -6,3 +6,6 @@ def subtract(a, b):
 
 def divcide(a, b):
     return a / b
+
+def meltiply (a, b):
+    return a * b
